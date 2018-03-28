@@ -19,6 +19,7 @@ public class BrankasUangAksi {
         Harry.Ukuran=" 70 x 90 cm ";
         Harry.Harga=1200000;
         
+        Harry.cetakInfo();
                 
             
 }
