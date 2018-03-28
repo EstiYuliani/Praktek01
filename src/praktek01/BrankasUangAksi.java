@@ -15,7 +15,7 @@ public class BrankasUangAksi {
         
         Harry.Merek="Harry Oz";
         Harry.Bentuk="Kotak";
-        Harry.Spesifikasi="Keamananaa Fingerprint & Anti air / api";
+        Harry.Spesifikasi="Keamanan Fingerprint & Anti air / api";
         Harry.Ukuran=" 70 x 90 cm ";
         Harry.Harga=1200000;
         
