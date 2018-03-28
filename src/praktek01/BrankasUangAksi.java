@@ -12,7 +12,16 @@ package praktek01;
 public class BrankasUangAksi {
     public static void main(String[] args){
         BrankasUang Harry = new BrankasUang ();
+        
+        Harry.Merek="Harry Oz";
+        Harry.Bentuk="Kotak";
+        Harry.Spesifikasi="Keamananaa Fingerprint & Anti air / api";
+        Harry.Ukuran=" 70 x 90 cm ";
+        Harry.Harga=1200000;
+        
+                
             
 }
+    
 }
 
