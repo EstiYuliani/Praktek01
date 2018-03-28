@@ -11,14 +11,14 @@ package praktek01;
  */
 public class BrankasUang {
     String Merek;
-    String Jenis;
+    String Bentuk;
     String Spesifikasi;
     double Ukuran;
     String Harga;
     
     void cetakInfo (){
         System.out.println("Merek : "+Merek);
-        System.out.println("Jenis : "+Jenis);
+        System.out.println("Bentuk : "+Bentuk);
         System.out.println("Spesifikasi : "+Spesifikasi);
         System.out.println("Ukuran : "+Ukuran);
         System.out.println("Harga : "+Harga);
