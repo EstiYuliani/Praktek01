@@ -13,8 +13,8 @@ public class BrankasUang {
     String Merek;
     String Bentuk;
     String Spesifikasi;
-    double Ukuran;
-    String Harga;
+    String Ukuran;
+    double Harga;
     
     void cetakInfo (){
         System.out.println("Merek : "+Merek);
