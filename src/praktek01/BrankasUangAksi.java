@@ -11,6 +11,7 @@ package praktek01;
  */
 public class BrankasUangAksi {
     public static void main(String[] args){
+        BrankasUang Harry = new BrankasUang ();
             
 }
 }
